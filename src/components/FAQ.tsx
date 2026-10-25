@@ -65,32 +65,32 @@ export const FAQ: FC = () => {
 
     const faqItems = [
         {
-            question: "How does MarWiin prevent cheating?",
-            answer: "MarWiin uses advanced detection methods to identify cheats, executors, and script injections in real-time. Our technology monitors player behavior patterns and provides immediate notifications when suspicious activity is detected."
+            question: "How does ADN prevent cheating?",
+            answer: "ADN uses advanced detection methods to identify cheats, executors, and script injections in real-time. Our technology monitors player behavior patterns and provides immediate notifications when suspicious activity is detected."
         },
         {
-            question: "Will MarWiin impact my server performance?",
-            answer: "No, MarWiin is optimized for minimal performance impact. Our anti-cheat runs efficiently in the background without causing lag or affecting gameplay for legitimate players."
+            question: "Will ADN impact my server performance?",
+            answer: "No, ADN is optimized for minimal performance impact. Our anti-cheat runs efficiently in the background without causing lag or affecting gameplay for legitimate players."
         },
         {
-            question: "How hard is it to install MarWiin?",
-            answer: "Installing MarWiin is a straightforward process. We provide comprehensive documentation and setup guides. Most clients can have it up and running in less than 10 minutes. Our support team is also available to assist with installation."
+            question: "How hard is it to install ADN?",
+            answer: "Installing ADN is a straightforward process. We provide comprehensive documentation and setup guides. Most clients can have it up and running in less than 10 minutes. Our support team is also available to assist with installation."
         },
         {
-            question: "Can cheaters bypass MarWiin?",
-            answer: "MarWiin is continuously updated to counter new cheating methods. While no anti-cheat can claim to be 100% unbeatable, our detection rates are among the highest in the industry, and we constantly improve our technology to stay ahead of cheat developers."
+            question: "Can cheaters bypass ADN?",
+            answer: "ADN is continuously updated to counter new cheating methods. While no anti-cheat can claim to be 100% unbeatable, our detection rates are among the highest in the industry, and we constantly improve our technology to stay ahead of cheat developers."
         },
         {
-            question: "Does MarWiin work with custom scripts?",
-            answer: "Yes, MarWiin is designed to work seamlessly with custom scripts and resources. It doesn't interfere with legitimate server functionality while still providing robust protection against malicious activity."
+            question: "Does ADN work with custom scripts?",
+            answer: "Yes, ADN is designed to work seamlessly with custom scripts and resources. It doesn't interfere with legitimate server functionality while still providing robust protection against malicious activity."
         },
         {
             question: "What happens when a cheater is detected?",
-            answer: "When MarWiin detects a cheater, it can automatically take actions based on your configuration - from logging and alerting, to kicking or banning players. You have full control over how the system responds to different types of cheating behavior."
+            answer: "When ADN detects a cheater, it can automatically take actions based on your configuration - from logging and alerting, to kicking or banning players. You have full control over how the system responds to different types of cheating behavior."
         },
         {
             question: "What should I do after the purchase?",
-            answer: "Once you've made the purchase, head to our online panel and claim the license we sent you through email. Then, you can download MarWiin and start using it."
+            answer: "Once you've made the purchase, head to our online panel and claim the license we sent you through email. Then, you can download ADN and start using it."
         },
         {
             question: "I have multiple servers, how does it work?",
@@ -150,7 +150,7 @@ export const FAQ: FC = () => {
                             </span>
                         </h2>
                         <p className="text-gray-300 text-sm max-w-2xl mx-auto mt-3">
-                            Get answers to common questions about MarWiin anti-cheat
+                            Get answers to common questions about ADN anti-cheat
                         </p>
                     </div>
                 </Fade>

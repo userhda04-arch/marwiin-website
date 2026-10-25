@@ -182,7 +182,7 @@ export const Main: FC = () => {
 
     // Typewriter effect for subtitle
     const [displayText, setDisplayText] = useState("");
-    const fullText = "MarWiin is the ultimate anti-cheat solution for your FiveM servers, offering unparalleled protection against cheaters and malicious exploits.";
+    const fullText = "ADN is the ultimate anti-cheat solution for your FiveM servers, offering unparalleled protection against cheaters and malicious exploits.";
 
     useEffect(() => {
         if (inView) {
@@ -473,7 +473,7 @@ export const Main: FC = () => {
 
                                 <img
                                     src={heroImage}
-                                    alt="MarWiin Anti-Cheat Protection"
+                                    alt="ADN Anti-Cheat Protection"
                                     className="w-full h-auto rounded-xl relative z-10"
                                 />
 
@@ -501,7 +501,7 @@ export const Main: FC = () => {
                                             animate={isHovered ? { y: 0, opacity: 1 } : { y: 20, opacity: 0 }}
                                             transition={{ duration: 0.4, delay: 0.1 }}
                                         >
-                                            MarWiin uses AI-powered analysis to detect even the most sophisticated cheats
+                                            ADN uses AI-powered analysis to detect even the most sophisticated cheats
                                         </motion.p>
                                     </div>
                                 </motion.div>

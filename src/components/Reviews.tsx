@@ -169,7 +169,7 @@ export const Reviews: FC<ReviewsProps> = ({ reviews }) => {
                             ></motion.span>
                         </h2>
                         <p className="text-gray-400 text-sm max-w-2xl mx-auto mt-4">
-                            See what our customers are saying about MarWiin's anti-cheat protection
+                            See what our customers are saying about ADN's anti-cheat protection
                         </p>
                     </div>
                 </Fade>

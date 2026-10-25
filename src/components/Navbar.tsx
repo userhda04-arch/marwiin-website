@@ -34,10 +34,10 @@ const Navbar: FC = () => {
                     <a href="#" className="flex items-center">
                         <img 
                             src={logoImage} 
-                            alt="MarWiin" 
+                            alt="ADN" 
                             className="h-10 w-auto mr-3"
                         />
-                        <span className="text-white font-bold text-xl">MarWiin</span>
+                        <span className="text-white font-bold text-xl">ADN</span>
                     </a>
 
                     {/* Desktop Navigation */}

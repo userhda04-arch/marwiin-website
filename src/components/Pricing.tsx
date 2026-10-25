@@ -29,21 +29,21 @@ export const Pricing: FC = () => {
     // Define plans data
     const monthlyFeatures = [
         { text: "1 month license", included: true },
-        { text: "All MarWiin features", included: true },
+        { text: "All ADN features", included: true },
         { text: "Instant delivery and installation", included: true },
         { text: "Online cloud panel", included: true },
     ];
 
     const quarterlyFeatures = [
         { text: "3 months license", included: true },
-        { text: "All MarWiin features", included: true },
+        { text: "All ADN features", included: true },
         { text: "Instant delivery and installation", included: true },
         { text: "Online cloud panel", included: true },
     ];
 
     const lifetimeFeatures = [
         { text: "Forever license", included: true },
-        { text: "All MarWiin features", included: true },
+        { text: "All ADN features", included: true },
         { text: "Instant delivery and installation", included: true },
         { text: "Online cloud panel", included: true },
     ];
@@ -155,7 +155,7 @@ export const Pricing: FC = () => {
         } else if (USE_TEBEX) {
             return (
                 <a
-                    href='https://waveresources.tebex.io/category/MarWiin'
+                    href='https://waveresources.tebex.io/category/ADN'
                     target='_blank'
                     rel="noopener noreferrer"
                     className='mt-7 w-10/12 py-3 text-center transition-colors cursor-pointer rounded-full px-7 text-black hover:opacity-95 bg-accent'

@@ -234,7 +234,7 @@ export const Features = () => {
                             ></motion.span>
                         </h1>
                         <p className="text-gray-400 text-lg max-w-2xl mx-auto mt-4">
-                            Discover what makes MarWiin the most powerful anti-cheat system for your servers
+                            Discover what makes ADN the most powerful anti-cheat system for your servers
                         </p>
                     </div>
                 </Fade>
@@ -596,7 +596,7 @@ export const Features = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ delay: 0.4 }}
                     >
-                        <p className="text-white text-sm font-medium">MarWiin Cloud Panel Interface</p>
+                        <p className="text-white text-sm font-medium">ADN Cloud Panel Interface</p>
                     </motion.div>
                 </motion.div>
             )}

@@ -104,7 +104,7 @@ export const CallToAction: FC = () => {
                                     </div>
                                     
                                     <p className="text-gray-300 text-lg mb-8 max-w-xl">
-                                        Join our Discord community to get started with MarWiin. Our team is ready to help you set up the perfect anti-cheat solution for your server.
+                                        Join our Discord community to get started with ADN. Our team is ready to help you set up the perfect anti-cheat solution for your server.
                                     </p>
                                     
                                     <div className="mb-8">
@@ -124,8 +124,8 @@ export const CallToAction: FC = () => {
                                         <ul className="space-y-3">
                                             {[
                                                 "Get direct access to our technical support team",
-                                                "Connect with other server owners using MarWiin",
-                                                "Purchase and activate your MarWiin license",
+                                                "Connect with other server owners using ADN",
+                                                "Purchase and activate your ADN license",
                                                 "Stay updated with the latest security features"
                                             ].map((benefit, index) => (
                                                 <motion.li 
@@ -237,7 +237,7 @@ export const CallToAction: FC = () => {
                                         frameBorder="0" 
                                         sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
                                         className="rounded-xl"
-                                        title="MarWiin Discord"
+                                        title="ADN Discord"
                                     ></iframe>
                                 </motion.div>
                             </div>

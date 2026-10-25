@@ -20,7 +20,7 @@ export const Footer: FC = () => {
                             transition={{ duration: 0.5 }}
                         >
                             <FaShieldAlt className="text-accent text-2xl mr-2" />
-                            <h3 className="text-xl font-bold text-white">MarWiin</h3>
+                            <h3 className="text-xl font-bold text-white">ADN</h3>
                         </motion.div>
                         <motion.p 
                             className="text-gray-400 mb-6"
@@ -193,7 +193,7 @@ export const Footer: FC = () => {
                 >
                     <div className="flex flex-col md:flex-row justify-between items-center">
                         <p className="text-gray-500 text-sm">
-                            &copy; {currentYear} MarWiin. All rights reserved.
+                            &copy; {currentYear} ADN. All rights reserved.
                         </p>
                         
                         <div className="mt-4 md:mt-0">

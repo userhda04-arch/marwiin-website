@@ -19,7 +19,7 @@ export const Privacy: FC = () => {
                     </div>
                     
                     <div className="space-y-6 text-gray-300">
-                        <p>MarWiin ("we", "us", "our") values the privacy of our users ("you", "your") and is committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your personal data when you visit our website https://MarWiin.xyz and purchase anti-cheats software licenses from us. By using our website, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
+                        <p>ADN ("we", "us", "our") values the privacy of our users ("you", "your") and is committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your personal data when you visit our website https://ADN.xyz and purchase anti-cheats software licenses from us. By using our website, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
 
                         <h3 className="text-xl font-semibold text-white mb-2">1. Information We Collect</h3>
                         <p>We collect the following types of information when you visit our website or make a purchase:</p>
@@ -75,7 +75,7 @@ export const Privacy: FC = () => {
                             <li><strong>Portability:</strong> You can request a copy of your personal data in a structured, machine-readable format.</li>
                             <li><strong>Objection:</strong> You can object to the processing of your personal data, particularly in relation to direct marketing.</li>
                         </ul>
-                        <p>To exercise any of these rights, please contact us at MarWiin.pro@gmail.com. You also have the right to lodge a complaint with a supervisory authority, particularly in the European Union.</p>
+                        <p>To exercise any of these rights, please contact us at ADN.pro@gmail.com. You also have the right to lodge a complaint with a supervisory authority, particularly in the European Union.</p>
 
                         <h3 className="text-xl font-semibold text-white mb-2">9. Data Retention</h3>
                         <p>We will retain your personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, including for the purposes of satisfying any legal, accounting, or reporting requirements.</p>
@@ -87,7 +87,7 @@ export const Privacy: FC = () => {
                         <p>We may update our Privacy Policy from time to time. We will notify you of any material changes by posting the updated Privacy Policy on this page and updating the "Last Updated" date at the top of the page. We encourage you to review this Privacy Policy periodically for any changes.</p>
 
                         <h3 className="text-xl font-semibold text-white mb-2">12. Contact Us</h3>
-                        <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at: MarWiin.pro@gmail.com</p>
+                        <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at: ADN.pro@gmail.com</p>
                     </div>
                     
                     <div className="mt-8 pt-6 border-t border-gray-700 text-sm text-gray-400">
